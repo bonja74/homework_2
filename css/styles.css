@@ -1,0 +1,48 @@
+
+body{
+    background: #efefef;
+    
+    color: #000;
+	
+    font-family: serif;
+	font-size: 17px;
+	line-height: 1.42857;
+}
+
+p{
+	margin-top: 0;
+}
+
+.container{
+    width: 512px;
+	
+	background: #fff;
+    
+    margin: 4px auto 40px auto;
+    
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+	padding: 50px;
+}
+
+h1{
+	text-align: center;
+	font-size: 22px;
+	
+}
+
+.block{
+	padding: 15px 10px;
+	margin-bottom: 15px;
+	
+	border-bottom: 1px solid #7b7b7b;
+}
+
+.block:last-child{
+	border-bottom: 0 none;
+	margin-bottom: 0;
+}
+
+.photo{
+	text-align: center;
+	padding-bottom: 10px;
+}
